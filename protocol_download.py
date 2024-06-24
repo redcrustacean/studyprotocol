@@ -1,11 +1,7 @@
-
-
-
-print("Running...")
-
 import requests
 import re 
 from bs4 import BeautifulSoup
+print("Running...")
 
 print("Please input NCT number..  INCLUDE letters NCT")
 nctnumber = input()
